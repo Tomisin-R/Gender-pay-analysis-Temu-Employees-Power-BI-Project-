@@ -3,7 +3,7 @@
 The analysis focuses on employee demographics, departmental distribution, and salary structures to uncover potential inequalities or trends in compensation based on gender, seniority, and qualifications
 ## Key insights
 
-  •	Gender distribution across the organization
+  	•       Gender distribution across the organization
   
 	•	Comparison of average salaries between male and female employees
  
@@ -24,7 +24,7 @@ The analysis focuses on employee demographics, departmental distribution, and sa
 	•	Visuals such as bar charts, stacked column charts, and slicers for user-driven insights
  ## Files in Repository
  
-  •	Temu_Gender_Pay_Report.pbix – Power BI report file
+ 	•       Temu_Gender_Pay_Report.pbix – Power BI report file
   
 	•	Temu_Employee_Dataset.xlsx – Source data used for the analysis
  
